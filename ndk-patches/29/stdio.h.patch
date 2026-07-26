@@ -1,5 +1,5 @@
 diff -u -r /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdio.h ./usr/include/stdio.h
---- /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdio.h	2024-11-14 00:52:25.000000000 +0000
+--- ./usr/include/stdio.h	2024-11-14 00:52:25.000000000 +0000
 +++ ./usr/include/stdio.h	2025-05-09 18:52:59.008875200 +0000
 @@ -44,6 +44,11 @@
  #include <stdarg.h>
