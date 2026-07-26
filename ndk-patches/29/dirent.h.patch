@@ -1,4 +1,4 @@
---- ./usr/include/dirent.h.orig
+--- ./usr/include/dirent.h
 +++ ./usr/include/dirent.h
 @@ -57,6 +57,9 @@
  #define DT_SOCK 12
