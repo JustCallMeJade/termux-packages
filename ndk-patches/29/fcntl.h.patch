@@ -1,5 +1,5 @@
 diff -u -r /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/fcntl.h ./usr/include/fcntl.h
---- /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/fcntl.h	2024-11-14 00:52:25.000000000 +0000
+--- ./usr/include/fcntl.h	2024-11-14 00:52:25.000000000 +0000
 +++ ./usr/include/fcntl.h	2025-05-10 08:31:55.666234328 +0000
 @@ -93,12 +93,14 @@
  /** Flag for splice(). */
