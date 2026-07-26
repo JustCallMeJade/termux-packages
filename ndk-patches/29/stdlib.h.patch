@@ -1,5 +1,5 @@
 diff -u -r /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdlib.h ./usr/include/stdlib.h
---- /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdlib.h	2024-11-14 00:52:25.000000000 +0000
+--- ./usr/include/stdlib.h	2024-11-14 00:52:25.000000000 +0000
 +++ ./usr/include/stdlib.h	2025-05-28 17:41:34.420388013 +0000
 @@ -35,6 +35,9 @@
  #include <bits/wait.h>
