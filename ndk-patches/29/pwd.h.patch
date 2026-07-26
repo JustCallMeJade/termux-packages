@@ -1,5 +1,5 @@
 diff -u -r /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/pwd.h ./usr/include/pwd.h
---- /home/builder/lib/android-ndk-r28b/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/pwd.h	2024-11-14 00:52:25.000000000 +0000
+--- ./usr/include/pwd.h	2024-11-14 00:52:25.000000000 +0000
 +++ ./usr/include/pwd.h	2025-05-09 18:50:20.961428595 +0000
 @@ -89,13 +89,58 @@
  struct passwd* _Nullable getpwent(void) __INTRODUCED_IN(26);
